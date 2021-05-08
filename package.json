@@ -1,10 +1,12 @@
 {
   "name": "emoji-parser-node",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A text-emoji-parser for Node.js",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc -p .",
+    "test": "node test",
+    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
