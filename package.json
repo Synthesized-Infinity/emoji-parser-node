@@ -1,0 +1,24 @@
+{
+  "name": "emoji-parser-node",
+  "version": "0.0.1",
+  "description": "A text-emoji-parser for Node.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Synthesized-Infinity/emoji-parser-node.git"
+  },
+  "keywords": [
+    "emoji",
+    "node-emoji",
+    "text-emoji-parser"
+  ],
+  "author": "Synthesized-Infinity",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Synthesized-Infinity/emoji-parser-node/issues"
+  },
+  "homepage": "https://github.com/Synthesized-Infinity/emoji-parser-node#readme"
+}
