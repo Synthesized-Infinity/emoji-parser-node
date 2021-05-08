@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "A text-emoji-parser for Node.js",
   "main": "dist/index.js",
+  "files": [
+    "dist",
+    "test"
+  ],
+  "types": "dist",
   "scripts": {
     "build": "tsc -p .",
     "test": "node test",
